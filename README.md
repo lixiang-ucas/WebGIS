@@ -1,6 +1,11 @@
 # WebGIS
 WebGIS homework
 
+采用开发技术：
+Geoserver
+OpenLayers
+ExtJS
+
 功能：
 1)加载OSM底图、WMS图层，WFS图层
 2)地图浏览
